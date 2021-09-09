@@ -9,3 +9,7 @@ image shape changer :- https://www.tuxpi.com/photo-effects/shape-tool
 important links :- (git link)https://github.com/MahakSinghvi/important-links   &  https://github.com/MahakSinghvi/important-links
 
 Adobe spark :- https://spark.adobe.com/sp
+
+Vector images with custom colors (.svg) :- https://undraw.co/
+
+Vector images :- https://www.freepik.com/
